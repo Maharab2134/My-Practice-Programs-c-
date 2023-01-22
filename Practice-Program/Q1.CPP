@@ -1,6 +1,6 @@
 // Write a C++ program to find out first n perfect number where n is the input from user.
 
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 
 bool isPerfect(int num) {
